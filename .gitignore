@@ -14,3 +14,6 @@ data/
 
 # Ignore VS Code settings
 .vscode/
+
+# Ignore virtual environment
+venv/
